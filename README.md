@@ -1,6 +1,9 @@
-# iOS Learning App
+# WEATHER APP  - iOS Learning App
 
 This project is an iOS application built using **SwiftUI** for learning purposes. The main focus is on understanding the basics of SwiftUI, and it currently contains several views showcasing core SwiftUI components. In the future, network calls will be added to enhance the app's functionality.
+
+<img src="https://github.com/user-attachments/assets/09a2b412-0746-4547-a441-072b7bcdc234" alt="night" width="300"/>
+<img src="https://github.com/user-attachments/assets/b5e14a24-87a6-405c-bd64-68bb7ba3da73" alt="day" width="300"/>
 
 ## Features
 
