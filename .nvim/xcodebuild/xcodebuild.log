@@ -1,0 +1,36 @@
+[!]  --- xcodebuild: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:9F046A65-550C-4835-8DEC-96803E0B650E, OS:17.5, name:iPhone 15 Pro Max }
+{ platform:iOS Simulator, id:9F046A65-550C-4835-8DEC-96803E0B650E, OS:17.5, name:iPhone 15 Pro Max }
+[WeatherApp] Write Auxiliary File Entitlements-Simulated.plist
+[WeatherApp] Write Auxiliary File Entitlements.plist
+[WeatherApp] Write Auxiliary File all-product-headers.yaml
+[WeatherApp] Write Auxiliary File WeatherApp.hmap
+[WeatherApp] Write Auxiliary File WeatherApp-project-headers.hmap
+[WeatherApp] Write Auxiliary File WeatherApp-own-target-headers.hmap
+[WeatherApp] Write Auxiliary File WeatherApp-all-target-headers.hmap
+[WeatherApp] Write Auxiliary File WeatherApp-all-non-framework-target-headers.hmap
+[WeatherApp] Write Auxiliary File WeatherApp-generated-files.hmap
+[WeatherApp] Write Auxiliary File empty-WeatherApp.plist
+[WeatherApp] Write Auxiliary File WeatherApp.SwiftFileList
+[WeatherApp] Write Auxiliary File WeatherApp-OutputFileMap.json
+[WeatherApp] Write Auxiliary File WeatherApp.LinkFileList
+[WeatherApp] Write Auxiliary File WeatherApp_const_extract_protocols.json
+[WeatherApp] Compiling ContentView.swift
+[WeatherApp] Compiling GeneratedAssetSymbols.swift
+[WeatherApp] Compiling WeatherAppApp.swift
+[WeatherApp] Copy arm64-apple-ios-simulator.abi.json -> WeatherApp.abi.json
+[WeatherApp] Copy arm64-apple-ios-simulator.swiftdoc -> WeatherApp.swiftdoc
+[WeatherApp] Copy arm64-apple-ios-simulator.swiftmodule -> WeatherApp.swiftmodule
+[WeatherApp] Copy arm64-apple-ios-simulator.swiftsourceinfo -> WeatherApp.swiftsourceinfo
+[WeatherApp] Processing empty-WeatherApp.plist
+[WeatherApp] Write Auxiliary File WeatherApp.SwiftConstValuesFileList
+Signing WeatherApp.app (in target 'WeatherApp' from project 'WeatherApp')
+[WeatherApp] Touching WeatherApp.app
+Build Succeeded
+
+-----------------------------
+-- xcodebuild.nvim summary --
+-----------------------------
+
+  ✔ Build Succeeded
+
